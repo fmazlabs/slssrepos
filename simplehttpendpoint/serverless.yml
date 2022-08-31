@@ -12,5 +12,5 @@ functions:
       - httpApi:
           path: /time
           method: get
- #package:
-  #artifact: <+artifact.path> 
+package:
+  artifact: <+artifact.path> 
